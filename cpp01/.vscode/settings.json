@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cstdio": "c",
+        "unistd.h": "c",
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "filesystem": "cpp"
+    }
+}
